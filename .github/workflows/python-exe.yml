@@ -34,7 +34,7 @@ jobs:
       run: pip install pyinstaller
 
     - name: Build .exe
-      run: pyinstaller --onefile --icon=/server/icon.ico server/IpCheck.py
+      run: pyinstaller --onefile --icon=server/icon.ico server/IpCheck.py
 
 
     - name: Get current version
