@@ -1,0 +1,78 @@
+2025-03-07 18:11:27,962 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=7.077 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.077/7.077/7.077/nan ms
+
+2025-03-07 18:11:38,970 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:13:42,002 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=9.290 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 9.290/9.290/9.290/0.000 ms
+
+2025-03-07 18:13:48,795 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=7.442 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.442/7.442/7.442/nan ms
+
+2025-03-07 18:13:59,805 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:17:00,656 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=832.301 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 832.301/832.301/832.301/nan ms
+
+2025-03-07 18:17:11,671 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:20:11,697 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=10.474 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.474/10.474/10.474/0.000 ms
+
+2025-03-07 18:20:22,712 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:23:22,785 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=15.619 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 15.619/15.619/15.619/0.000 ms
+
+2025-03-07 18:23:33,799 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:26:33,866 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=7.768 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.768/7.768/7.768/nan ms
+
+2025-03-07 18:26:44,886 - 10.37.128.3 is not reachable:
+
+2025-03-07 18:29:44,923 - cxsdwan.com is reachable:
+PING cxsdwan.com (123.138.200.230): 56 data bytes
+64 bytes from 123.138.200.230: icmp_seq=0 ttl=52 time=18.001 ms
+
+--- cxsdwan.com ping statistics ---
+1 packets transmitted, 1 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 18.001/18.001/18.001/0.000 ms
+
+2025-03-07 18:29:55,931 - 10.37.128.3 is not reachable:
+
