@@ -29,7 +29,7 @@ def ping_ip_addresses(ip_addresses):
     for ip in ip_addresses:
         try:
             # 在Windows上使用['ping', '-n', '1', ip]
-            response = subprocess.run(['ping', '-c', '1', ip], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+            response = subprocess.run(['ping', '-n', '1', ip], check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
             logging.info(f"{ip} 是可访问的:\n{response.stdout}")
         except subprocess.CalledProcessError as e:
             logging.info(f"{ip} 不可访问:\n{e.stderr}")
