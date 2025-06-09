@@ -7,7 +7,7 @@ import platform
 import sys
 
 # 创建日志目录
-log_dir = "log"
+log_dir = "../log"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
